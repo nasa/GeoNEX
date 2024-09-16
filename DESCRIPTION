@@ -1,0 +1,17 @@
+Package: GeoNEXTools
+Type: Package
+Title: Download GeoNEX subset data
+Version: 0.1.0
+Author: Hirofumi Hashimoto
+Maintainer: Hirofumi Hashimoto <hirofumi.hashimoto@gmail.com>
+Description: This tool will help user download GeoNEX subset data.
+    GeoNEXTools provides same function with the MOIDSTools for ease to use.
+License: AGPL-3
+Encoding: UTF-8
+Imports:
+    httr,
+    utils,
+    stats,
+    memoise,
+    jsonlite
+RoxygenNote: 7.3.1
