@@ -2,7 +2,7 @@ GeoNEXTools
 <img src='man/figures/GeoNEXTools.png' align='centre' height='10%' width='10%'/>
 ================
 Hirofumi Hashimoto
-14 April 2024
+20 September 2024
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 <!-- badges: start -->
@@ -24,7 +24,7 @@ You can install the development version of GeoNEXTools from
 
 ``` r
 # install.packages("devtools")
-devtools::install_github("GeoNEX-Community-Tools/GeoNEXTools")
+devtools::install_github("nasa/GeoNEXTools")
 ```
 
 ## Example

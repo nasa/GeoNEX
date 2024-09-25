@@ -33,7 +33,7 @@ You can install the development version of GeoNEXTools from [GitHub](https://git
 
 ``` r
 # install.packages("devtools")
-devtools::install_github("GeoNEX-Community-Tools/GeoNEXTools")
+devtools::install_github("nasa/GeoNEXTools")
 ```
 
 ## Example
