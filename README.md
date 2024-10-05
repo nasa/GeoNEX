@@ -13,9 +13,9 @@ Hirofumi Hashimoto
 
 The goal of GeoNEXTools is to help download GeoNEX subset dataset. Most
 of the GeoNEXTools functions are compatible with
-[MODISTools](https://github.com/ropensci/MODISTools) for ease to users
+[MODISTools](https://github.com/bluegreen-labs/MODISTools) for ease to users
 who are familiar with
-[MODISTools](https://github.com/ropensci/MODISTools).
+[MODISTools](https://github.com/bluegreen-labs/MODISTools).
 
 ## Installation
 

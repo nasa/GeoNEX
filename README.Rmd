@@ -23,7 +23,7 @@ knitr::opts_chunk$set(
 <!-- badges: end -->
 
 The goal of GeoNEXTools is to help download GeoNEX subset dataset.
-Most of the GeoNEXTools functions are compatible with [MODISTools](https://github.com/ropensci/MODISTools) for ease to users who are familiar with [MODISTools](https://github.com/ropensci/MODISTools).
+Most of the GeoNEXTools functions are compatible with [MODISTools](https://github.com/bluegreen-labs/MODISTools) for ease to users who are familiar with [MODISTools](https://github.com/bluegreen-labs/MODISTools).
 
 
 
